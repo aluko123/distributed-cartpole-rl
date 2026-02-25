@@ -1,4 +1,4 @@
-# Distributed CartPole RL (MVP Skeleton)
+# Distributed CartPole RL
 
 This repo is intentionally minimal. It defines the project layout and interfaces before implementation.
 
